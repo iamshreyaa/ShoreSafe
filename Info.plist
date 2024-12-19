@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>YourAppName</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to display the map and your current position.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to display the map and provide accurate services.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Your location is required to enhance your experience.</string>
+</dict>
+</plist>
